@@ -15,5 +15,6 @@
    to data-driven decision-making.
    
    You can access the Power BI Simulation Activities through the following link:
+   [click here to go to the dashboards](https://github.com/Shakti-analyst/PwC-Data-Insights-and-Visualization-using-Power-BI)
 
  
